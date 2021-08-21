@@ -21,19 +21,19 @@ Looking at the distribution of Gender in the mall Data, as shown in Figure there
 customer in the mall as compared to males. Female customers are about 56% while male customers
 are about 44 % in the mall.
 
-<img src="https://raw.githubusercontent.com/Mobiee/Unsupervised-ML-/main/Graphs/chart2.png?token=APEXWSLG6V5JGOZBXBNSEG3BEBIL2" height="300" width="350" alt="bar Chart Income">
+<img src="https://raw.githubusercontent.com/Mobiee/Unsupervised-ML-/main/Graphs/chart2.png?token=APEXWSK647O6M5CFH3BYJOTBEBIZY" height="300" width="350" alt="bar Chart Income">
 
 As visualised above most customers have an annual income of 54k$ and 78k$, while some customers
 have the lowest income of 15K$ to highest income of 137K$ which are less as compared to those who
 have an income of 54k$ and 78k$.
 
-<img src="https://raw.githubusercontent.com/Mobiee/Unsupervised-ML-/main/Graphs/chart3.png?token=APEXWSLG6V5JGOZBXBNSEG3BEBIL2" height="300" width="350" alt="Bar chart for Age">
+<img src="https://github.com/Mobiee/Unsupervised-ML-/blob/main/Graphs/chart3.png?raw=true" height="300" width="350" alt="Bar chart for Age">
 
 The distribution plot of Age shows that most customers are in their 30’s followed by those who are 19
 years and 40 years old. The customers who are 55, 56, 64 and 69 years old shop less in the mall as
 compared to other age groups.
 
-<img src="https://raw.githubusercontent.com/Mobiee/Unsupervised-ML-/main/Graphs/chart4.png?token=APEXWSLG6V5JGOZBXBNSEG3BEBIL2" height="300" width="350" alt="Bar chart for Age">
+<img src="https://github.com/Mobiee/Unsupervised-ML-/blob/main/Graphs/chart4.png?raw=true" height="300" width="350" alt="Bar chart for Age">
 
 The above pair plot does not show that there is any significant difference between male and female
 customers, which could be an indication that gender does not play a role in connection to consumer
@@ -46,12 +46,12 @@ clusters, with each data point belonging to only one group or cluster. It attemp
 data points as close as possible while making clusters as separate (far) as possible. It assigns data points
 to clusters based on the number of squared distances [1].
 
-<img src="https://raw.githubusercontent.com/Mobiee/Unsupervised-ML-/main/Graphs/chart5.png?token=APEXWSLG6V5JGOZBXBNSEG3BEBIL2" height="300" width="350" alt="Elbow cahrt">
+<img src="https://github.com/Mobiee/Unsupervised-ML-/blob/main/Graphs/chart5.png?raw=true" height="300" width="350" alt="Elbow cahrt">
 
 The below Figure shows the clustering plot of the data where the red points are cluster 0, green is
 cluster 3, golden are cluster 2 and blue is cluster 1.
 
-<img src="https://raw.githubusercontent.com/Mobiee/Unsupervised-ML-/main/Graphs/chart6.png?token=APEXWSLG6V5JGOZBXBNSEG3BEBIL2" height="300" width="350" alt="Elbow cahrt">
+<img src="https://github.com/Mobiee/Unsupervised-ML-/blob/main/Graphs/chart6.png?raw=true" height="300" width="350" alt="Elbow cahrt">
 
 
 ### In summary :
@@ -64,7 +64,7 @@ females are higher than males.
 Cluster 3 belong to people with high income and high spending scores who are in their 30s where the
 ratio of males is higher than females.
 
-<img src="https://raw.githubusercontent.com/Mobiee/Unsupervised-ML-/main/Graphs/chart7.png?token=APEXWSLG6V5JGOZBXBNSEG3BEBIL2" height="300" width="350" alt="Summary Table">
+<img src="https://github.com/Mobiee/Unsupervised-ML-/blob/main/Graphs/chart7.png?raw=true" height="300" width="350" alt="Summary Table">
 
 ### References:
 *[1] Dabbura, I., 2018. K-means Clustering: Algorithm, Applications, Evaluation Methods, and Drawbacks.
