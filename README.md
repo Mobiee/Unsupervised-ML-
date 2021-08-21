@@ -67,22 +67,22 @@ ratio of males is higher than females.
 <img src="https://github.com/Mobiee/Unsupervised-ML-/blob/main/Graphs/chart7.png?raw=true" height="300" width="350" alt="Summary Table">
 
 ### References:
-*[1] Dabbura, I., 2018. K-means Clustering: Algorithm, Applications, Evaluation Methods, and Drawbacks.
+* [1] Dabbura, I., 2018. K-means Clustering: Algorithm, Applications, Evaluation Methods, and Drawbacks.
 [online] Medium. Available at: <https://towardsdatascience.com/k-means-clustering-algorithm-applicationsevaluation-
 methods-and-drawbacks-aa03e644b48a>.
-*[2] Scikit-yb.org. 2021. Elbow Method — Yellowbrick v1.3.post1 documentation. [online] Available at:
+* [2] Scikit-yb.org. 2021. Elbow Method — Yellowbrick v1.3.post1 documentation. [online] Available at:
 <https://www.scikityb.
 org/en/latest/api/cluster/elbow.html#:~:text=K%2Dmeans%20is%20a%20simple,number%20(k)%20of%2
 0clusters.&text=The%20elbow%20method%20runs%20k,average%20score%20for%20all%20clusters.>
 .
-*[3] dzone.com. n.d. KMeans Silhouette Score Explained With Python Example - DZone AI. [online] Available
+* [3] dzone.com. n.d. KMeans Silhouette Score Explained With Python Example - DZone AI. [online] Available
 at: <https://dzone.com/articles/kmeans-silhouette-score-explained-with-python-exam> .
-*[4]Grootendorst, M., 2019. Cluster Analysis: Create, Visualize and Interpret Customer Segments. [online]
+* [4]Grootendorst, M., 2019. Cluster Analysis: Create, Visualize and Interpret Customer Segments. [online]
 Medium. Available at: <https://towardsdatascience.com/cluster-analysis-create-visualize-and-interpretcustomer-
 segments-474e55d00ebb> .
-*[5]Maklin, C., 2019. DBSCAN Python Example: The Optimal Value For Epsilon (EPS). [online] Medium.
+* [5]Maklin, C., 2019. DBSCAN Python Example: The Optimal Value For Epsilon (EPS). [online] Medium.
 Available at: <https://towardsdatascience.com/machine-learning-clustering-dbscan-determine-the-optimalvalue-
 for-epsilon-eps-python-example-3100091cfbc>.
-*[6] Singh Chauhan, N., 2019. What is Hierarchical Clustering? - KDnuggets. [online] KDnuggets. Available at:
+* [6] Singh Chauhan, N., 2019. What is Hierarchical Clustering? - KDnuggets. [online] KDnuggets. Available at:
 <https://www.kdnuggets.com/2019/09/hierarchical-clustering.html>.
 
