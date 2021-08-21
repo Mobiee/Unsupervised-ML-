@@ -13,7 +13,7 @@ In order to understand and examine the data and features of data, data explorato
 performed, to get an insight into the data and its relationship between the features.
 Before performing EDA, the data is checked to see how the data provided looks like.
 
-<img src="https://raw.githubusercontent.com/Mobiee/Unsupervised-ML-/main/Graphs/chart1.png?token=APEXWSPEULA6LZGGCEVVOFDBEBHLQ" height="300" width="350" alt="Pie Chart">
+<img src="https://raw.githubusercontent.com/Mobiee/Unsupervised-ML-/main/Graphs/chart1.png?token=APEXWSPEULA6LZGGCEVVOFDBEBHLQ"  width="350" height="300" alt="Pie Chart">
 
 Looking at the distribution of Gender in the mall Data, as shown in Figure there is more female
 customer in the mall as compared to males. Female customers are about 56% while male customers
